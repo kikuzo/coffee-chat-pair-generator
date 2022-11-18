@@ -5,6 +5,7 @@ Coffee Chat用のランダムペア作成ツールです
 NOTION_API_TOKEN : Notionのページアクセス用のトークン
 
 SLACK_CHANNEL : 結果をSlackに出力する場合の出力先チャネル
+
 SLACK_HOOK_URL : 結果をSlackに出力する場合の出力先Webhook URL
 
 ## コマンドライン引数
